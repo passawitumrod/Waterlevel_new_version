@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Waterlevel_new_version/static/css/main.895e541c.chunk.css",
+    "main.js": "/Waterlevel_new_version/static/js/main.6e3b7786.chunk.js",
+    "main.js.map": "/Waterlevel_new_version/static/js/main.6e3b7786.chunk.js.map",
+    "runtime-main.js": "/Waterlevel_new_version/static/js/runtime-main.818f1c89.js",
+    "runtime-main.js.map": "/Waterlevel_new_version/static/js/runtime-main.818f1c89.js.map",
+    "static/css/2.f1d904fc.chunk.css": "/Waterlevel_new_version/static/css/2.f1d904fc.chunk.css",
+    "static/js/2.765b7784.chunk.js": "/Waterlevel_new_version/static/js/2.765b7784.chunk.js",
+    "static/js/2.765b7784.chunk.js.map": "/Waterlevel_new_version/static/js/2.765b7784.chunk.js.map",
+    "index.html": "/Waterlevel_new_version/index.html",
+    "precache-manifest.38e7e0156eb68716c06f53a3cba09ac5.js": "/Waterlevel_new_version/precache-manifest.38e7e0156eb68716c06f53a3cba09ac5.js",
+    "service-worker.js": "/Waterlevel_new_version/service-worker.js",
+    "static/css/2.f1d904fc.chunk.css.map": "/Waterlevel_new_version/static/css/2.f1d904fc.chunk.css.map",
+    "static/css/main.895e541c.chunk.css.map": "/Waterlevel_new_version/static/css/main.895e541c.chunk.css.map",
+    "static/js/2.765b7784.chunk.js.LICENSE.txt": "/Waterlevel_new_version/static/js/2.765b7784.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.818f1c89.js",
+    "static/css/2.f1d904fc.chunk.css",
+    "static/js/2.765b7784.chunk.js",
+    "static/css/main.895e541c.chunk.css",
+    "static/js/main.6e3b7786.chunk.js"
+  ]
+}
